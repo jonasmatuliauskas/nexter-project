@@ -1,2 +1,7 @@
-# nexter-project
-The goal of this project was to learn the "CSS Grid Layout". It was accomplished while studying online, a course by "Udemy".
+<img src="img/logo.png" width="350px">
+
+# How to install and run project:
+    $ git clone <project>
+    $ cd path/to/<project>
+    $ npm install 
+    $ npm start
